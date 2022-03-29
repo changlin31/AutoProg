@@ -19,7 +19,7 @@ Code will be released soon.
 
 ## Citation
 If you use our code for your paper, please cite:
-```
+```bibtex
 @inproceedings{li2022autoprog,
   author = {Li, Changlin and 
             Zhuang, Bohan and 
