@@ -15,7 +15,7 @@ AutoProg achieves efficient training by automatically increasing the training ov
 AutoProg can accelerate ViTs training by up to 85.1% with no performance drop.
 </p>
 
-####*[New!]* Check out the extension of this work on diffusion models! **AutoProg-Zero** [ [paper](https://arxiv.org/abs/2410.00350) | [code](https://github.com/changlin31/AutoProg-Zero) ]. 
+#### *[New!]* Check out the extension of this work on diffusion models! ***AutoProg-Zero*** [ [arXiv](https://arxiv.org/abs/2410.00350) | [code](https://github.com/changlin31/AutoProg-Zero) ]. 
 
 ## 1. Requirements
 
